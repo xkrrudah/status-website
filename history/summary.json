@@ -4,54 +4,60 @@
     "url": "https://cms.thisistak.me",
     "icon": "https://icons.duckduckgo.com/ip3/cms.thisistak.me.ico",
     "slug": "cms",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1027,
     "timeDay": 896,
     "timeWeek": 1061,
     "timeMonth": 1027,
     "timeYear": 1027,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-04": 4
+    }
   },
   {
     "name": "ems",
     "url": "https://ems.thisistak.me",
     "icon": "https://icons.duckduckgo.com/ip3/ems.thisistak.me.ico",
     "slug": "ems",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1187,
     "timeDay": 887,
     "timeWeek": 1300,
     "timeMonth": 1187,
     "timeYear": 1187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-04": 3
+    }
   },
   {
     "name": "git",
     "url": "https://git.thisistak.me",
     "icon": "https://icons.duckduckgo.com/ip3/git.thisistak.me.ico",
     "slug": "git",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1084,
     "timeDay": 887,
     "timeWeek": 1005,
     "timeMonth": 1084,
     "timeYear": 1084,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-04": 3
+    }
   },
   {
     "name": "mail-server",
@@ -70,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-04": 110,
+      "2026-04-04": 724,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
@@ -87,46 +93,50 @@
     "url": "https://blog.thisistak.me",
     "icon": "https://icons.duckduckgo.com/ip3/blog.thisistak.me.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1499,
     "timeDay": 1243,
     "timeWeek": 1363,
     "timeMonth": 1499,
     "timeYear": 1499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-04": 2
+    }
   },
   {
     "name": "chat",
     "url": "https://chat.thisistak.me",
     "icon": "https://icons.duckduckgo.com/ip3/chat.thisistak.me.ico",
     "slug": "chat",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1068,
     "timeDay": 1093,
     "timeWeek": 1086,
     "timeMonth": 1068,
     "timeYear": 1068,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-04": 1
+    }
   },
   {
     "name": "nas",
     "url": "https://nas.thisistak.me",
     "icon": "https://icons.duckduckgo.com/ip3/nas.thisistak.me.ico",
     "slug": "nas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1091,
@@ -134,16 +144,18 @@
     "timeWeek": 1109,
     "timeMonth": 1091,
     "timeYear": 1091,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-04": 1
+    }
   },
   {
     "name": "router",
     "url": "https://router.thisistak.me",
     "icon": "https://icons.duckduckgo.com/ip3/router.thisistak.me.ico",
     "slug": "router",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,6 +164,8 @@
     "timeWeek": 1393,
     "timeMonth": 1324,
     "timeYear": 1324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-04": 0
+    }
   }
 ]
